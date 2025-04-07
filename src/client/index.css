@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p, code, pre {
+  margin: 0.6rem;
+}
+
+code, pre {
+  background-color: #ffffff;
+}
+
+pre {
+  padding: 0.6rem;
+}

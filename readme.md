@@ -1,1 +1,1 @@
-<img src="/example.jpg" alt="скрин нейронки">
+<img src="/example.png" alt="скрин нейронки">
